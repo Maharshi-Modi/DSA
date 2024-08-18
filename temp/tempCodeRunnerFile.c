@@ -1,0 +1,1 @@
+printf("Q[%d] = %d  , %d digits\n" , i , queue[i] , d);

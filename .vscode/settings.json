@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "bubble_sortingc": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
